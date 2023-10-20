@@ -9,7 +9,7 @@ I work mainly with ROS2 and try to contribute back as much as I can. You can fin
 ### 📫 Contact Me
 
 Email: tony.najjar.1997@gmail.com <br>
-Resume: [Resume](https://github.com/tonynajjar/tonynajjar/blob/main/Resume.pdf)
+Resume: [Resume](https://github.com/tonynajjar/tonynajjar/blob/main/resume.pdf)
 
 ### 🌹 ChatGPT Poem
 
