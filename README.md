@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Tony Najjar
 
-I'm currently working at [Pixel Robotics](https://www.pixel-robotics.eu/) as Senior Robotics Software Engineer. I work across a wide range of the autonomy stack, mainly navigation, behavior, control, hardware drivers but also partially on localization and perception.
+I'm currently working at [Angsa Robotics](https://angsa-robotics.com/en-de/) as Senior Robotics Software Engineer. I work across a wide range of the autonomy stack, mainly navigation, behavior, control, hardware drivers but also partially on localization and perception.
 
 ### 💻 Open Source Work
 
