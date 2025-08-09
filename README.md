@@ -4,7 +4,7 @@ I'm currently working at [Angsa Robotics](https://angsa-robotics.com/en-de/) as 
 
 ### 💻 Open Source Work
 
-I work mainly with ROS2 and try to contribute back as much as I can. You can find my PR contributions [here](https://github.com/pulls?q=is%3Apr+author%3Atonynajjar+archived%3Afalse+is%3Aclosed+is%3Apublic), my issues contributions [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Atonynajjar+archived%3Afalse+is%3Apublic).
+I work mainly with ROS2 and try to contribute back as much as I can. You can find my PR contributions [here](https://github.com/search?q=is:pr+author:tonynajjar&type=pullrequests), my issues contributions [here](https://github.com/search?q=author%3Atonynajjar&type=issues).
 
 ### 📫 Contact Me
 
